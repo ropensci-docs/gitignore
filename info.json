@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f4d88d206ae2cda8e686bd92dc5dce61dd44f3d1",
+    "author": "Philippe Massicotte <pmassicotte@hotmail.com>",
+    "time": "2020-11-20 18:29:22",
+    "files": 7,
+    "merge": true,
+    "message": "Merge pull request #17 from ropensci/use-github-action\n\nUse GitHub action"
+  },
+  "remote": "https://github.com/ropensci/gitignore",
+  "pkg": "gitignore"
+}
