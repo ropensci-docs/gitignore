@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f4e05905138d29123bb816c6dc73eeb53b7280cb",
+    "author": "Philippe Massicotte <pmassicotte@hotmail.com>",
+    "time": "2023-12-12 12:14:57",
+    "files": 1,
+    "merge": false,
+    "message": "chore(.Rbuildignore): remove unnecessary files and directories from the build process\n\nThe following files and directories were removed from the build process:\n- .Rproj\n- .Rproj.user\n- README.Rmd\n- LICENSE.md\n- CODE_OF_CONDUCT.md\n- appveyor.yml\n- .travis.yml\n- codemeta.json\n- doc\n- Meta\n- codecov.yml\n- .github\n- _pkgdown.yml\n- docs\n- pkgdown\n- cran-comments.md\n- CRAN-RELEASE\n\nThese files and directories are not needed for the build process and can be safely ignored.\n"
+  },
+  "repo": "https://github.com/ropensci/gitignore",
+  "pkg": "gitignore"
+}
