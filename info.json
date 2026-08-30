@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "1f5250d562c48a08ab1cd975e83400037e0c288f",
+    "author": "Philippe Massicotte <pmassicotte@hotmail.com>",
+    "time": "2024-11-01T20:45:35Z",
+    "files": 3,
+    "merge": false,
+    "message": "chore: update version to 0.1.8.9000 for development phase\ndocs: add development version section in NEWS.md\nchore: update codemeta.json with new version and file size\n"
+  },
+  "repo": "https://github.com/ropensci/gitignore",
+  "pkg": "gitignore",
+  "time": "2026-08-30T07:38:43Z"
+}
